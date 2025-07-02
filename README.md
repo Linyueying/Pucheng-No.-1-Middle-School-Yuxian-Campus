@@ -2,8 +2,8 @@
 
 > 一站式校园生活指南 | 内容框架基于AI生成
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/school-encyclopedia?style=social)](https://github.com/yourusername/school-encyclopedia)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/Linyueying/Pucheng-No.-1-Middle-School-Yuxian-Campus-Encyclopedia?style=social)](https://github.com/Linyueying/Pucheng-No.-1-Middle-School-Yuxian-Campus-Encyclopedia)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Linyueying/Pucheng-No.-1-Middle-School-Yuxian-Campus-Encyclopedia/blob/main/LICENSE)(https://opensource.org/licenses/MIT)
 [![Last Updated](https://img.shields.io/badge/Last_Updated-2025年6月20日-important)](https://github.com/yourusername/school-encyclopedia/commits/main)
 
 **🏫 浦城县第一中学**  
