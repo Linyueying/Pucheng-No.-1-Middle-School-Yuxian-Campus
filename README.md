@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/school-encyclopedia?style=social)](https://github.com/yourusername/school-encyclopedia)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Last Updated](https://img.shields.io/badge/Last_Updated-2023年8月20日-important)](https://github.com/yourusername/school-encyclopedia/commits/main)
+[![Last Updated](https://img.shields.io/badge/Last_Updated-2025年6月20日-important)](https://github.com/yourusername/school-encyclopedia/commits/main)
 
 ## 📑 目录导航
 1. [🍽️ 食堂指南](#-食堂指南)
