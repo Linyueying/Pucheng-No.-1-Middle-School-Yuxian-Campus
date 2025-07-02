@@ -9,6 +9,11 @@
 **🏫 浦城县第一中学**  
 始建于1921年，位于闽浙赣三省交界的福建省浦城县，是福建省一级达标高中。学校设皇华与育贤双校区，其中育贤校区于2022年启用实行全封闭寄宿制，秉承“以善先人、因材施教、博观深悟、强学力行”的校训精神，连续九届获评省级文明校园。  
 
+### 加入新生QQ群
+获取最新入学指南、结识同班同学、随时提问答疑！
+
+[![加入新生QQ群](https://img.shields.io/badge/QQ群-加入新生群-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=%2FFLM6O0%2Fev%2FiKFcl%2BEZvpN9qqJvAAxL6I%2FhhW1XzCIA%2FUD1DAxE0TtaVNtds830G&busi_data=eyJncm91cENvZGUiOiIxMDUxMjgzMTI4IiwidG9rZW4iOiJwQkgyWnMzYVlqVi92aHEwdFFyeXEvRnlDZU8veG1raEpPMkV4akpSSmk4QVQ2ME1YSWdtM2h4ZWUySzVNYVNnIiwidWluIjoiMzI5MDcyMTM1MiJ9&data=ADDdmyCBBzwuMy06-hdyJoXs-cnad43rBoLC7gpPEseLZaYukQ0GiNuXLXTg-H_ProfCpbgdgWcxWjrM0aFtfQ&svctype=4&tempid=h5_group_info)
+
 ## 📑 目录导航
 1. [🍽️ 食堂指南](#-食堂指南)
 2. [📦 快递服务](#-快递服务)
@@ -162,14 +167,6 @@
 - [ ] 学习用品
 - [ ] 常用药品
 - [ ] 课本与学习资料
-
-### 加入新生QQ群
-获取最新入学指南、结识同班同学、随时提问答疑！
-
-[![加入新生QQ群](https://img.shields.io/badge/QQ群-加入新生群-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=你的QQ群密钥)
-
-> 扫码加入：  
-> ![QQ群二维码](assets/qq-group-qrcode.png)
 
 ### 新生小贴士
 1. 开学前通过农业银行办理校园卡兼饭卡
