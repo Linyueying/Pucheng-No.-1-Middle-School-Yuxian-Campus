@@ -23,7 +23,7 @@
 6. [🏫 校园设施](#-校园设施)
 7. [👋 新生必看](#-新生必看)
 8. [✨ 贡献指南](#-贡献指南)
-9. [📂 项目结构](#-项目结构)
+9. [🎁 学长Tips](#-学长Tips)
 
 ---
 
@@ -198,40 +198,20 @@
 
 ---
 
-<a name="项目结构"></a>
-## 📂 项目结构
+<a name="学长Tips"></a>
+## 🎁 学长Tips
+### 关于学校网络
+1.学校大部分地区覆盖校园网Pcyz
+宿舍地区密码： **Pcyz@985211**
 
-```
-school-encyclopedia/
-├── cafeteria/          # 食堂信息
-│   ├── README.md
-│   ├── east-canteen.md
-│   └── west-canteen.md
-├── express/            # 快递服务
-│   ├── README.md
-│   └── delivery-guide.md
-├── schedule/           # 作息时间
-│   ├── README.md
-│   └── holiday.md
-├── activities/         # 校园活动
-│   ├── README.md
-│   ├── festivals.md
-│   └── clubs.md
-├── regulations/        # 校规校纪
-│   ├── README.md
-│   └── academic.md
-├── facilities/         # 校园设施
-│   ├── README.md
-│   ├── library.md
-│   └── gym.md
-├── assets/             # 资源文件
-│   ├── qq-group-qrcode.png
-│   ├── cafeteria-map.jpg
-│   └── campus-layout.png
-├── CONTRIBUTING.md     # 贡献指南
-├── LICENSE             # 许可证
-└── README.md           # 主文档
-```
+教室与其他区域：**pcyz5136**
+>因校园网采用同名称不同AP形式，故密码不相同
+>且教室网络内置白名单，仅白板网络设备Mac地址可连接
+>如有需要连接教室WiFi可以修改静态IP与设备Mac，具体思路此文不在赘述
+
+
+
+
 
 ## 📜 许可协议
 
