@@ -12,7 +12,7 @@
 ### 加入新生QQ群
 获取最新入学指南、结识同班同学、随时提问答疑！
 
-[![加入新生QQ群](https://img.shields.io/badge/QQ群-加入新生群-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=%2FFLM6O0%2Fev%2FiKFcl%2BEZvpN9qqJvAAxL6I%2FhhW1XzCIA%2FUD1DAxE0TtaVNtds830G&busi_data=eyJncm91cENvZGUiOiIxMDUxMjgzMTI4IiwidG9rZW4iOiJwQkgyWnMzYVlqVi92aHEwdFFyeXEvRnlDZU8veG1raEpPMkV4akpSSmk4QVQ2ME1YSWdtM2h4ZWUySzVNYVNnIiwidWluIjoiMzI5MDcyMTM1MiJ9&data=ADDdmyCBBzwuMy06-hdyJoXs-cnad43rBoLC7gpPEseLZaYukQ0GiNuXLXTg-H_ProfCpbgdgWcxWjrM0aFtfQ&svctype=4&tempid=h5_group_info)
+[![加入新生QQ群](https://img.shields.io/badge/QQ群-加入浦城一中2028届新生群-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=%2FFLM6O0%2Fev%2FiKFcl%2BEZvpN9qqJvAAxL6I%2FhhW1XzCIA%2FUD1DAxE0TtaVNtds830G&busi_data=eyJncm91cENvZGUiOiIxMDUxMjgzMTI4IiwidG9rZW4iOiJwQkgyWnMzYVlqVi92aHEwdFFyeXEvRnlDZU8veG1raEpPMkV4akpSSmk4QVQ2ME1YSWdtM2h4ZWUySzVNYVNnIiwidWluIjoiMzI5MDcyMTM1MiJ9&data=ADDdmyCBBzwuMy06-hdyJoXs-cnad43rBoLC7gpPEseLZaYukQ0GiNuXLXTg-H_ProfCpbgdgWcxWjrM0aFtfQ&svctype=4&tempid=h5_group_info)
 
 ## 📑 目录导航(点击可跳转对应板块！)
 1. [🍽️ 食堂指南](#-食堂指南)
@@ -101,24 +101,26 @@
 <a name="校园活动"></a>
 ## 🎉 校园活动
 
-### 2024-2025学年主要活动日历
+### 🔥皇华之春(文艺晚会)
 
-| 活动类型 | 活动名称     | 开始日期   | 结束日期   | 持续时间 |
-|----------|--------------|------------|------------|----------|
-| 学术类   | 各个学科科技节       | 2023-10-15 | 2023-10-29 | 14天     |
-| 学术类   |        | 2023-11-01 | 2023-12-01 | 30天     |
-| 文体类   | 校园歌手大赛 | 2023-09-20 | 2023-10-11 | 21天     |
-| 文体类   | 运动会       | 2024-04-10 | 2024-04-15 | 5天      |
-| 节日类   | 皇华之春     | 2023-09-10 | 2023-09-10 | 1天      |
+> 举办时间：每年5-6月
+> 晚间6:30-9:00
+
+浦城一中**最盛大最隆重的**晚会！也是春末夏初的一场盛宴，拥有舞蹈，歌唱，小品等多个节目，这是一中学子展示风采的的舞台
+
+### 🚀科技节
+
+>举办时间：每年3-6月份，持续时间较长
 
 
-### 体育课特色内容
-##
+
+#### 体育课特色内容
+
 - **武术班**：强度较高，时间长，学习各类拳法
 - **球类班**：强度很低，基本上课即解散
 - **空手道班**：强度中等，学习类似太极的拳法
 
-[活动详情 >](activities/README.md)
+[点我查看活动记录 >](activities/README.md)
 
 ---
 
