@@ -14,7 +14,7 @@
 
 [![加入新生QQ群](https://img.shields.io/badge/QQ群-加入新生群-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=%2FFLM6O0%2Fev%2FiKFcl%2BEZvpN9qqJvAAxL6I%2FhhW1XzCIA%2FUD1DAxE0TtaVNtds830G&busi_data=eyJncm91cENvZGUiOiIxMDUxMjgzMTI4IiwidG9rZW4iOiJwQkgyWnMzYVlqVi92aHEwdFFyeXEvRnlDZU8veG1raEpPMkV4akpSSmk4QVQ2ME1YSWdtM2h4ZWUySzVNYVNnIiwidWluIjoiMzI5MDcyMTM1MiJ9&data=ADDdmyCBBzwuMy06-hdyJoXs-cnad43rBoLC7gpPEseLZaYukQ0GiNuXLXTg-H_ProfCpbgdgWcxWjrM0aFtfQ&svctype=4&tempid=h5_group_info)
 
-## 📑 目录导航
+## 📑 目录导航(点击可跳转对应板块！)
 1. [🍽️ 食堂指南](#-食堂指南)
 2. [📦 快递服务](#-快递服务)
 3. [⏰ 作息时间](#-作息时间)
